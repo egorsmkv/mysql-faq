@@ -8,7 +8,7 @@
   - [**для MySQL 8**](https://dev.mysql.com/doc/refman/8.0/en/)
   - [**для MySQL 5.7**](https://dev.mysql.com/doc/refman/5.7/en/)
 - #### На русском
-  - [**для MySQL 8:**](http://www.rldp.ru/mysql/mysql80/index.htm)
+  - [**для MySQL 8**](http://www.rldp.ru/mysql/mysql80/index.htm)
   - [**для MySQL 5.7**](http://spec-zone.ru/RU/mysql/5.7/index.html)
 
 ## Как установить MySQL?
